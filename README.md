@@ -33,12 +33,15 @@ B站动态屏蔽助手，项目开始于2021-5-18
 5.点击“确定”并保存即可生效
 
 <b>Alook浏览器：</b>
+
 1.前往https://github.com/shoyu3/BiliBanDynamicTool/raw/main/bilibandyntool.min.user.js ，全选并复制其中的代码以备用  
 注：如因国内网络受阻导致无法正常打开可使用此链接：https://acg.cash/userjs/bandyn/?min=1  
 2.在Alook浏览器中打开设置页面，选择“自定义设置”-“JavaScript扩展”并进入  
 3.点击右上角的“+”按钮，选择“被动扩展”  
 4.名称可随意填写，匹配类型选择“域名”，匹配值输入```t.bilibili.com```，运行时间保持默认，接着在“JavaScript代码”输入框中粘贴刚才复制的代码  
 5.点击右上角的“保存”按钮即可生效
+
+<b>其他支持用户脚本的浏览器请按照对应方式添加，在此不一一举例</b>
 
 ## 🚧已知Bug
 
