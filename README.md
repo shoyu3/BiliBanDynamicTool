@@ -17,6 +17,7 @@ B站动态屏蔽助手，项目开始于2021-5-18
 2.点击扩展程序栏中（或位于其他位置）的油猴图标，选择“管理面板”并进入  
 3.在弹出的标签页的上方导航栏点击“实用工具”  
 4.在页面下方的“从URL安装”右侧的输入框粘贴以下网址并点击安装：https://github.com/shoyu3/BiliBanDynamicTool/raw/main/bilibandyntool.user.js （也可直接点击这条链接安装）  
+注：如因国内网络受阻导致无法正常打开可使用此链接：http://acg.cash/userjs/bandyn/  
 5.将弹出新标签页询问是否安装，点击“安装”  
 6.安装完成后在已安装脚本列表中找到此脚本，点击右侧的“编辑”按钮  
 7.在弹出的标签页点击“编辑器”选项卡右侧的“设置”
@@ -25,6 +26,7 @@ B站动态屏蔽助手，项目开始于2021-5-18
 <b>Via浏览器，Alook浏览器（或支持用户脚本的浏览器，此教程以Via浏览器作为演示）：</b>
 
 1.前往https://github.com/shoyu3/BiliBanDynamicTool/raw/main/bilibandyntool.min.user.js ，全选并复制其中的代码以备用  
+注：如因国内网络受阻导致无法正常打开可使用此链接：http://acg.cash/userjs/bandyn/?min=1  
 2.在via浏览器中打开设置页面，选择“脚本”并进入  
 3.点击右上角的“+”按钮，选择“添加脚本”  
 4.在“域名”输入框中输入```t.bilibili.com```，接着在“代码”输入框中粘贴刚才复制的代码  
